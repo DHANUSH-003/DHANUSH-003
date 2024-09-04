@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Student Management System<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about Java and Web Development<br>⚡ Reach Me On https://www.linkedin.com/in/dhanush-a-b7378122a/
 
 
 ## 🌐 Socials:
