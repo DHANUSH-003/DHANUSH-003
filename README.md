@@ -1,9 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Student Management System<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about Java and Web Development<br>⚡ Reach Me On https://www.linkedin.com/in/dhanush-a-b7378122a/
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ethuku_mapla?igsh=dmU2ZXd0cTIzem8x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/dhanush-a-b7378122a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/dhanush-a-b7378122a/)) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg<h1 align="center">Hi 👋, I'm Dhanush Anbu</h1>
