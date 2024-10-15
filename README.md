@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 👨‍💻 All of my projects are available at [https://dhanusha-portfolio-001.netlify.app/](https://dhanusha-portfolio-001.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dhanusha-portfolio-001.netlify.app/](https://dhanusha-new-portfolio.netlify.app/)
 
 - 💬 Ask me about **Java and Web Development**
 
