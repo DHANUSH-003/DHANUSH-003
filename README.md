@@ -18,7 +18,7 @@
 
   >"Every single line,
   >
-  >a step toward greatness.
+  >a step toward greatness."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
